@@ -1,10 +1,10 @@
-# Hi, I’m Omar 👋
+# Hi, I’m Omar
 
 I’m a sophomore at James Madison University studying Computer Information Systems with a Business Analytics concentration and a second major in Marketing. I’m building a career at the intersection of data analytics, cloud, and business strategy.
 
 ---
 
-## 🔎 What I’m Focused On
+## What I’m Focused On
 
 - **Data & business analytics** – turning messy data into decisions, dashboards, and experiments.  
 - **Python projects** – scripting, data manipulation, and small utilities (e.g., validation, text processing, automation).  
@@ -13,7 +13,7 @@ I’m a sophomore at James Madison University studying Computer Information Syst
 
 ---
 
-## 🛠 Tech & Tools
+## Tech & Tools
 
 - **Languages:** Python, SQL (learning and expanding as I go).  
 - **Data & analytics:** Exploratory data analysis, basic modeling, and reporting for business questions.  
@@ -22,21 +22,21 @@ I’m a sophomore at James Madison University studying Computer Information Syst
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
 - **Madison AI Club site** – contributing to a members-only website with secure login so students can access resources and a shared calendar.  
 - **Portfolio analytics projects** – planning Python and AWS-based projects that showcase data pipelines, analysis, and clear business outcomes.  
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Build a strong portfolio of analytics and cloud projects that align with high-impact, high-leverage roles.  
 - Prepare for internships in data analytics, cloud, or tech-focused business roles that can lead to high-value contract work later on.  
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 If you’re working on **data analytics**, **AWS projects**, or **student-led tech initiatives**, I’m always open to collaborating and learning from others.
 
