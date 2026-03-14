@@ -57,6 +57,6 @@ If you’re working on **data analytics**, **AWS projects**, or **student-led te
 
 - LinkedIn: https://www.linkedin.com/in/omaroudrari/
 - Email: omar.oudrari@gmail.com 
-- Portfolio / Website: yrgomar.github.io 
+- Portfolio / Website: [yrgomar.github.io](https://yrgomar.github.io)
 
 > Always learning, always shipping small projects, and always looking for ways to turn **data** into real business value.
