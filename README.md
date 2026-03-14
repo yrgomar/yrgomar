@@ -38,8 +38,10 @@ viral brands are not necessarily responsible ones.
 
 ---
 
-- **Madison AI Club site** – contributing to a members-only website with secure login so
-  students can access resources and a shared calendar.
+### Madison AI Club — Member Portal
+Contributed to a members-only website with secure login and shared calendar for JMU students.
+
+[View Site](https://madisonaiclub.com)
 ---
 
 ## Goals
