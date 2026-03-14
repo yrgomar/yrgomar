@@ -30,6 +30,7 @@ to explore the relationship between sustainability, worker wages, social media p
 environmental impact.
 
 **Tools:** Python, Pandas, Matplotlib, Seaborn
+
 **Key finding:** High social media popularity shows little correlation with sustainability —
 viral brands are not necessarily responsible ones.
 
