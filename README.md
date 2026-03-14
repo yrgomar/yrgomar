@@ -22,11 +22,23 @@ I’m a sophomore at James Madison University studying Computer Information Syst
 
 ---
 
-## Current Projects
+## Projects
 
-- **Madison AI Club site** – contributing to a members-only website with secure login so students can access resources and a shared calendar.  
-- **Portfolio analytics projects** – planning Python and AWS-based projects that showcase data pipelines, analysis, and clear business outcomes.  
+### The True Cost of Fast Fashion — Data Analysis
+Analyzed 3,000 records across 5 major fast fashion brands (Shein, Zara, H&M, Forever 21, Uniqlo)
+to explore the relationship between sustainability, worker wages, social media presence, and
+environmental impact.
 
+**Tools:** Python, Pandas, Matplotlib, Seaborn
+**Key finding:** High social media popularity shows little correlation with sustainability —
+viral brands are not necessarily responsible ones.
+
+[View Project](https://github.com/yrgomar/fast-fashion-brand-analysis)
+
+---
+
+- **Madison AI Club site** – contributing to a members-only website with secure login so
+  students can access resources and a shared calendar.
 ---
 
 ## Goals
