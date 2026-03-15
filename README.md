@@ -1,62 +1,62 @@
-# Hi, I’m Omar
+# Omar Oudrari
 
-I’m a sophomore at James Madison University studying Computer Information Systems with a Business Analytics concentration and a second major in Marketing. I’m building a career at the intersection of data analytics, cloud, and business strategy.
-
----
-
-## What I’m Focused On
-
-- **Data & business analytics** – turning messy data into decisions, dashboards, and experiments.  
-- **Python projects** – scripting, data manipulation, and small utilities (e.g., validation, text processing, automation).  
-- **AWS & cloud analytics** – exploring services for data pipelines, storage, and analytics to build a strong AWS-focused portfolio.  
-- **Applied marketing** – combining analytics with marketing to understand customers and measure impact.  
+Sophomore at James Madison University - **CIS + Marketing double major**, Business Analytics concentration.  
+Based in Falls Church, VA. Building toward data analytics and tech roles in the DC/NoVA market.
 
 ---
 
-## Tech & Tools
+## Currently Working On
 
-- **Languages:** Python, SQL (learning and expanding as I go).  
-- **Data & analytics:** Exploratory data analysis, basic modeling, and reporting for business questions.  
-- **Cloud & platforms:** Working toward AWS-oriented data analytics skills and projects.  
-- **Other interests:** Web and app flows with secure authentication, especially for student and club use cases.  
+- **Fast Fashion Data Analysis** — Python/Pandas/Seaborn project analyzing sustainability, wages, and social media across 5 major brands (3,000+ records)
+- **Internship Tracker** — A browser-based app to manage recruiting pipelines. Built with vanilla JS and localStorage. [Live →](https://yrgomar.github.io/Internship-Tracker/)
+- **Madison AI Club Member Portal** — Contributing to a secure, members-only web portal for JMU students
 
 ---
 
 ## Projects
 
-### The True Cost of Fast Fashion — Data Analysis
-Analyzed 3,000 records across 5 major fast fashion brands (Shein, Zara, H&M, Forever 21, Uniqlo)
-to explore the relationship between sustainability, worker wages, social media presence, and
-environmental impact.
+### [Fast Fashion Brand Analysis](https://github.com/yrgomar/fast-fashion-brand-analysis)
+Analyzed 3,000+ records across Shein, Zara, H&M, Forever 21, and Uniqlo to explore the relationship between sustainability scores, worker wages, and social media reach.
 
-**Tools:** Python, Pandas, Matplotlib, Seaborn
+**Finding:** High social media popularity has little correlation with ethical practices — viral brands are not necessarily responsible ones.
 
-**Key finding:** High social media popularity shows little correlation with sustainability —
-viral brands are not necessarily responsible ones.
-
-[View Project](https://github.com/yrgomar/fast-fashion-brand-analysis)
+`Python` `Pandas` `Matplotlib` `Seaborn`
 
 ---
 
-### Madison AI Club — Member Portal
-Contributed to a members-only website with secure login and shared calendar for JMU students.
+### [Internship Tracker](https://github.com/yrgomar/Internship-Tracker)
+A lightweight, offline-capable web app for tracking internship applications across 7 stages — from wishlist to offer. Built to solve my own recruiting problem.
 
-[View Site](https://madisonaiclub.com)
----
-
-## Goals
-
-- Build a strong portfolio of analytics and cloud projects that align with high-impact, high-leverage roles.  
-- Prepare for internships in data analytics, cloud, or tech-focused business roles that can lead to high-value contract work later on.  
+`HTML` `CSS` `Vanilla JS` `localStorage`
 
 ---
 
-## Let’s Connect
+### [Madison AI Club — Member Portal](https://madisonaiclub.com)
+Contributed to a members-only website with secure authentication and shared calendar for JMU's AI Club.
 
-If you’re working on **data analytics**, **AWS projects**, or **student-led tech initiatives**, I’m always open to collaborating and learning from others.
+`Web Development` `Authentication` `JavaScript`
 
-- LinkedIn: https://www.linkedin.com/in/omaroudrari/
-- Email: omar.oudrari@gmail.com 
-- Portfolio / Website: [yrgomar.github.io](https://yrgomar.github.io)
+---
 
-> Always learning, always shipping small projects, and always looking for ways to turn **data** into real business value.
+## Tech
+
+**Languages:** Python · SQL · JavaScript · HTML/CSS  
+**Data:** Pandas · Matplotlib · Seaborn · SPSS · Excel (PivotTables, Power Query)  
+**BI & Reporting:** Power BI · Tableau (learning)  
+**Other:** Git · GitHub · Bloomberg Terminal (BFF + BMC certified)
+
+---
+
+## Background
+
+- Double major in **Computer Information Systems** and **Marketing** at JMU's College of Business
+- Business Analytics concentration — currently in COB 291 (Business Analytics II), CIS 221 (Programming), COB 242 (Managerial Accounting)
+- Human Data Specialist at **Handshake** — evaluating and improving LLM outputs for accuracy and reasoning quality
+- Social Chair, Kappa Delta Rho — managing $30K+ event budgets and cross-org partnerships
+- Web Development Committee, **Madison AI Club**
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/omaroudrari/) · [Portfolio](https://yrgomar.github.io) · omar.oudrari@gmail.com
