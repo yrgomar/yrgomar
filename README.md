@@ -1,21 +1,32 @@
 # Omar Oudrari
 
-Sophomore at James Madison University - **CIS + Marketing double major**, Business Analytics concentration.  
+Sophomore at James Madison University — **CIS + Marketing double major**, Business Analytics concentration.  
 Based in Falls Church, VA. Building toward data analytics and tech roles in the DC/NoVA market.
 
 ---
 
 ## Currently Working On
 
-- **Fast Fashion Data Analysis** — Python/Pandas/Seaborn project analyzing sustainability, wages, and social media across 5 major brands (3,000+ records)
-- **Internship Tracker** — A browser-based app to manage recruiting pipelines. Built with vanilla JS and localStorage. [Live →](https://yrgomar.github.io/Internship-Tracker/)
+- **The Durability Paradox** — Business analysis of 12 fashion brands examining why avant-garde brands outlast the brands that outspend them. Python · Power BI · Excel · PowerPoint · written report.
+- **Internship Tracker** — Browser-based app to manage recruiting pipelines. Built with vanilla JS and localStorage. [Live →](https://yrgomar.github.io/Internship-Tracker/)
 - **Madison AI Club Member Portal** — Contributing to a secure, members-only web portal for JMU students
 
 ---
 
 ## Projects
 
+### [The Durability Paradox — Avant-Garde Fashion Business Analysis](https://github.com/yrgomar/durability-paradox)
+
+Analyzed 12 fashion brands across 18 variables to examine why avant-garde brands (Rick Owens, Maison Margiela, Comme des Garçons) generate durable revenue without advertising, mass distribution, or social media scale.
+
+**Finding:** Maison Margiela grew +23% in 2023 while Balenciaga contracted -15%. Avant-garde brands retain 60–82% of retail value on secondary markets. Fast fashion retains 0–5%. Scarcity is the product, not a constraint.
+
+`Python` `Pandas` `Matplotlib` `Seaborn` `Power BI` `Excel` `PowerPoint`
+
+---
+
 ### [Fast Fashion Brand Analysis](https://github.com/yrgomar/fast-fashion-brand-analysis)
+
 Analyzed 3,000+ records across Shein, Zara, H&M, Forever 21, and Uniqlo to explore the relationship between sustainability scores, worker wages, and social media reach.
 
 **Finding:** High social media popularity has little correlation with ethical practices — viral brands are not necessarily responsible ones.
@@ -25,6 +36,7 @@ Analyzed 3,000+ records across Shein, Zara, H&M, Forever 21, and Uniqlo to explo
 ---
 
 ### [Internship Tracker](https://github.com/yrgomar/Internship-Tracker)
+
 A lightweight, offline-capable web app for tracking internship applications across 7 stages — from wishlist to offer. Built to solve my own recruiting problem.
 
 `HTML` `CSS` `Vanilla JS` `localStorage`
@@ -32,6 +44,7 @@ A lightweight, offline-capable web app for tracking internship applications acro
 ---
 
 ### [Madison AI Club — Member Portal](https://madisonaiclub.com)
+
 Contributed to a members-only website with secure authentication and shared calendar for JMU's AI Club.
 
 `Web Development` `Authentication` `JavaScript`
