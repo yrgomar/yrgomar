@@ -1,6 +1,6 @@
 # Omar Oudrari
 
-Sophomore at James Madison University — **CIS + Marketing double major**, Business Analytics concentration.  
+Sophomore at James Madison University — **CIS + Finance double major**, Business Analytics concentration.  
 Based in Falls Church, VA. Building toward data analytics and tech roles in the DC/NoVA market.
 
 ---
@@ -62,7 +62,7 @@ Contributed to a members-only website with secure authentication and shared cale
 
 ## Background
 
-- Double major in **Computer Information Systems** and **Marketing** at JMU's College of Business
+- Double major in **Computer Information Systems** and **Finance** at JMU's College of Business
 - Business Analytics concentration — currently in COB 291 (Business Analytics II), CIS 221 (Programming), COB 242 (Managerial Accounting)
 - Human Data Specialist at **Handshake** — evaluating and improving LLM outputs for accuracy and reasoning quality
 - Social Chair, Kappa Delta Rho — managing $30K+ event budgets and cross-org partnerships
